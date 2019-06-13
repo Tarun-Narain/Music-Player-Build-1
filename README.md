@@ -1,7 +1,5 @@
 Music Player Build 1:
-
-Please Dont get scared if you get a 'App Stopped Working'
-as i was not able to test app for all SDKs.
+It is a basic Template for All purpose Music Application(Streaming And Offline)
 
 It contains the basic player features:
 1. Playing music
@@ -11,10 +9,7 @@ It contains the basic player features:
 5. MaterialSearch(Bar only Search Function for next build)
 6. RecyclerView(Basic Items only Title Functional)
 
-	I haven't Tested the App Much Because of Slow Internet Connections
-
-Issues and Bugs (Current)
-1. Doesn't Works With Lower API(23 or Lower)
+Comming Next : Streaming Class for online Music Streaming for Node Server.
 
 
 
